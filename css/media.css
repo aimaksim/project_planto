@@ -1,0 +1,689 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* Common css Start */
+  .P-logo-img {
+    height: 50px;
+  }
+  .P-title {
+    font-size: 30px;
+  }
+  .title {
+    font-size: 30px;
+  }
+  .explore-btn {
+		margin-bottom: 20px;
+	}
+  .explore-btn-custom {
+    margin: 5px;
+    font-size: 12px;
+  }
+/* Common css End */
+
+/* Header Start */
+  .nav-link {
+    font-size: 22px;
+  }
+  .btn-dd{
+    width: 250px;
+  }
+  .btn-dd[data-bs-popper] {
+    left: -260px;
+  }
+/* Header End */
+  
+/* Banner Start */
+  .banner-h1 {
+    margin-bottom: 10px;
+  }
+  .banner-p {
+    font-size: 14px;
+  }
+  .rs-card {
+    padding: 20px;
+    width: 280px;
+  }
+  .rs-card-title {
+    font-size: 20px;
+  }
+  .banner-review .stars i {
+    font-size: 12px;
+  }
+  .banner-review-p {
+    font-size: 14px;
+  }
+  .tp-card {
+    margin-top: 30px;
+  }
+  .tp-card-img {
+    position: initial;
+  }
+  .tp-sub {
+    font-size: 28px;
+    text-align: center;
+  }
+  .tp-details p {
+    font-size: 15px;
+    text-align: center;
+  }
+  .price-info {
+    font-size: 18px;
+    justify-content: center;
+  }
+  .tp-card-button {
+    display: flex;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-p {
+    font-size: 14px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card {
+    margin-top: 15px;
+  }
+  .cure_card h5 {
+    font-size: 20px;
+  }
+  .cure_card_stars {
+    font-size: 22px;
+  }
+  .cure_card p {
+    font-size: 14px;
+  }
+/* Customer Reviews End */ 
+
+/* Our Best O2 Start*/
+  .ob2 {
+    padding: 35px 0;
+  }
+  .ob2-sub {
+		font-size: 24px;
+    }
+	.ob2-text p {
+		font-size: 14px;
+	}
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-logo {
+    margin-bottom: 10px;
+  }
+  .ft-des {
+    font-size: 14px;
+  }
+  .sc-icons {
+    font-size: 20px;
+  }
+  .ft-h5 {
+    font-size: 35px;
+  }
+  .ft-link li a {
+    font-size: 22px;
+  }
+  .ft-subs {
+    margin: 15px 0;
+    font-size: 30px;
+  }
+  .ft-last-p {
+    margin-top: 40px;
+    font-size: 20px;
+  }
+/* Footer End */
+}
+
+/* Small devices (landscape phones, 576px and 767.98px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* Common css Start */
+  .P-logo-img {
+    height: 50px;
+  }
+  .P-title {
+    font-size: 30px;
+  }
+  .title {
+    font-size: 40px;
+  }
+  .explore-btn {
+		margin: 15px;
+	}
+  .explore-btn-custom {
+    margin: 5px;
+    font-size: 16px;
+  }
+/* Common css End */
+
+/* Header Start */
+  .nav-link {
+    font-size: 22px;
+  }
+  .btn-dd{
+    width: 350px !important;
+  }
+  .btn-dd[data-bs-popper] {
+    left: -305px;
+  }
+/* Header End */
+
+/* Banner Start */
+  .banner-h1 {
+    margin-bottom: 10px;
+  }
+  .banner-p {
+    font-size: 18px;
+  }
+  .rs-card {
+    padding: 20px;
+    width: 280px;
+  }
+  .rs-card-title {
+    font-size: 20px;
+  }
+  .banner-review .stars i {
+    font-size: 12px;
+  }
+  .banner-review-p {
+    font-size: 14px;
+  }
+  .tp-card {
+    margin-top: 30px;
+  }
+  .tp-card-img {
+    position: initial;
+  }
+  .tp-sub {
+    font-size: 28px;
+    text-align: center;
+  }
+  .tp-details p {
+    font-size: 14px;
+  }
+  .price-info {
+    font-size: 18px;
+    justify-content: center;
+  }
+  .tp-card-button {
+    display: flex;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-h3 {
+    font-size: 22px;
+  }
+  .ts-card-p {
+    font-size: 14px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card {
+    margin-top: 15px;
+  }
+  .cure_card h5 {
+    font-size: 22px;
+  }
+  .cure_card_stars {
+    font-size: 22px;
+  }
+  .cure_card p {
+    font-size: 14px;
+  }
+/* Customer Reviews End */
+
+/* Our Best O2 Start*/
+  .ob2-sub {
+		margin: 30px 0;
+		font-size: 28px;
+  }
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-logo {
+    margin-top: 25px;
+    margin-bottom: 10px;
+  } 
+  .ft-des {
+    font-size: 18px;
+  }
+  .sc-icons {
+    font-size: 45px;
+  }
+  .ft-h5 {
+    font-size: 40px;
+  }
+  .ft-link li a {
+    font-size: 22px;
+  }
+  .ft-subs {
+    margin: 25px 0;
+    font-size: 40px;
+  }
+  .ft-last-p {
+    margin-top: 40px;
+    font-size: 24px;
+  }
+/* Footer End */
+}
+
+/* Medium devices (tablets, 768px and 991.98px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* Common css Start */
+  .P-logo-img {
+    height: 50px;
+  }
+  .P-title {
+    font-size: 30px;
+  }
+  .title {
+    font-size: 35px;
+  }
+  .explore-btn {
+		margin: 15px;
+	}
+  .explore-btn-custom {
+    margin: 5px;
+    font-size: 16px;
+  }
+/* Common css End */
+
+/* Header Start */
+  .nav-link {
+    font-size: 18px;
+  }
+  .btn-dd{
+    width: 350px !important;
+  }
+  .btn-dd[data-bs-popper] {
+    left: -305px;
+  }
+/* Header End */
+
+/* Banner Start */
+  .banner-h1 {
+    margin-bottom: 10px;
+  }
+  .banner-p {
+    font-size: 18px;
+  }
+  .rs-card {
+    padding: 20px;
+    width: 280px;
+  }
+  .rs-card-title {
+    font-size: 20px;
+  }
+  .banner-review .stars i {
+    font-size: 12px;
+  }
+  .banner-review-p {
+    font-size: 16px;
+  }
+  .tp-card {
+    margin-top: 30px;
+  }
+  .tp-card-img {
+    position: initial;
+  }
+  .tp-sub {
+    font-size: 35px;
+    text-align: center;
+  }
+  .tp-details p {
+    font-size: 18px;
+  }
+  .price-info {
+    font-size: 18px;
+    justify-content: center;
+  }
+  .tp-card-button {
+    display: flex;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-h3 {
+    font-size: 22px;
+  }
+  .ts-card-p {
+    font-size: 14px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card {
+    margin-top: 15px;
+  }
+  .cure_card h5 {
+    font-size: 18px;
+  }
+  .cure_card_stars {
+    font-size: 22px;
+  }
+  .cure_card p {
+    font-size: 10px;
+  }
+/* Customer Reviews End */
+
+/* Our Best O2 Start*/
+  .ob2 {
+    padding: 50px 0;
+  } 
+  .ob2-sub {
+		font-size: 25px;
+	}
+	.ob2-text p {
+		font-size: 14px;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.ob2_prev {
+		bottom: -5% !important;
+	}
+	.ob2_next {
+		bottom: -5% !important;
+	}
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-logo {
+    margin-top: 25px;
+  }
+  .ft-des {
+    font-size: 18px;
+  }
+  .sc-icons {
+    font-size: 45px;
+  }
+  .ft-h5 {
+    margin-top: 35px;
+    font-size: 28px;
+  }
+  .ft-link li a {
+    font-size: 18px;
+  }
+  .ft-subs {
+    margin-top: 36px;
+    font-size: 26px;
+  }
+  .ft-last-p {
+    margin-top: 160px;
+    font-size: 17px;
+  }
+/* Footer End */
+}
+
+/* Large devices (desktops, 992px and 1199.98px */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* Common css Start */
+  .P-logo-img {
+    height: 50px;
+  }
+  .P-title {
+    font-size: 30px;
+  }
+  .title {
+    font-size: 40px;
+  }
+/* Common css End */
+
+/* Header Start */
+  .nav-link {
+    font-size: 22px;
+  }
+/* Header End */
+
+/* Banner Start */
+  .banner-h1 {
+    margin-bottom: 10px;
+  }
+  .banner-p {
+    font-size: 16px;
+  }
+  .rs-card-text {
+    font-size: 16px;
+  }
+  .banner-review .stars i {
+    font-size: 14px;
+  }
+  .banner-review-p {
+    font-size: 16px;
+  }
+  .tp-card {
+    margin-top: 30px;
+  }
+  .tp-sub {
+    font-size: 30px;
+  }
+  .tp-details p {
+    font-size: 18px;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-h3 {
+    font-size: 24px;
+  }
+  .ts-card-p {
+    font-size: 16px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card {
+    margin-top: 15px;
+  }
+  .cure_card h5 {
+    font-size: 22px;
+  }
+  .cure_card_stars {
+    font-size: 22px;
+  }
+  .cure_card p {
+    font-size: 14px;
+  }
+/* Customer Reviews End */
+
+/* Our Best O2 Start*/
+	.ob2-sub { 
+		font-size: 30px;
+	}
+	.ob2-text p {
+		font-size: 15px;
+	}
+	.ob2_prev {
+		bottom: -6% !important;
+	}
+	.ob2_next {
+		bottom: -6% !important;
+	}
+	.coustom_ind {
+		bottom: -25px;
+	}
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-logo {
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+  .ft-des {
+    font-size: 18px;
+  }
+  .sc-icons {
+    font-size: 50px;
+  }
+  .ft-h5 {
+    margin-top: 30px;
+    font-size: 30px;
+  }
+  .ft-link li a {
+    font-size: 22px;
+  }
+  .ft-subs {
+    margin-top: 30px;
+    font-size: 30px;
+  }
+  .ft-last-p {
+    margin-top: 100px;
+    font-size: 22px;
+  }
+/* Footer End */
+}
+
+/* Extra large devices (large desktops, 1200px and 1399.98px) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* Common css Start */
+  .P-logo-img {
+    height: 60px;
+  }
+  .P-title {
+    font-size: 30px;
+  }
+  .title {
+    font-size: 40px;
+  }
+/* Common css End */
+
+/* Banner Start */
+  .banner-p {
+    font-size: 18px;
+  }
+  .tp-details p {
+    font-size: 18px;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-h3 {
+    font-size: 26px;
+  }
+  .ts-card-p {
+    font-size: 20px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card {
+    margin-top: 15px;
+  }
+  .cure_card h5 {
+    font-size: 22px;
+  }
+  .cure_card_stars {
+    font-size: 22px;
+  }
+  .cure_card p {
+    font-size: 14px;
+  }
+/* Customer Reviews End */
+
+/* Our Best O2 Start*/
+  .ob2-sub {
+		font-size: 40px !important;
+	}
+	.ob2_prev {
+		bottom: -6% !important;
+	}
+	.ob2_next {
+		bottom: -6% !important;
+	}
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-des {
+    font-size: 20px;
+  }
+  .sc-icons {
+    margin-top: 40px;
+  }
+  .ft-h5 {
+    margin-top: 10px;
+    font-size: 35px;
+  }
+  .ft-link li a {
+    font-size: 24px;
+  }
+  .ft-subs {
+    margin-top: 14px;
+    font-size: 32px;
+  }
+  .ft-last-p {  
+    margin-top: 110px;
+  }
+/* Footer End */
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)) */
+@media (min-width: 1400px) {
+/* Common css Start */
+  .title {
+    font-size: 45px;
+  }
+/* Common css End */
+
+/* Header Start */
+  .nav-link {
+    font-size: 22px;
+  }
+/* Header End */
+
+/* Banner Start */
+  .tp-sub {
+    font-size: 40px;
+  }
+  .tp-details p {
+    font-size: 18px;
+  }
+/* Banner End */
+
+/* Top Selling Start*/
+  .ts-card-h3 {
+    font-size: 26px;
+  }
+  .ts-card-p {
+    font-size: 20px;
+  }
+/* Top Selling End*/
+
+/* Customer Reviews Start */
+  .cure_card h5 {
+    font-size: 24px;
+  }
+  .cure_card_stars {
+    font-size: 25px;
+  }
+  .cure_card p {
+    font-size: 18px;
+  }
+/* Customer Reviews End */
+
+/* Our Best O2 Start*/
+	.ob2_prev {
+		bottom: -6% !important;
+	}
+	.ob2_next {
+		bottom: -6% !important;
+	}
+	.coustom_ind {
+		bottom: -25px;
+	}
+/* Our Best O2 End*/
+
+/* Footer Start */
+  .ft-logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .ft-h5 {
+    margin-top: 20px;
+    font-size: 44px;
+  }
+  .ft-subs {
+    margin-top: 20px;
+    font-size: 44px;
+  }
+/* Footer End */ 
+}
