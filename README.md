@@ -1,4 +1,4 @@
 # project_planto
 Project_Planto
 
-Preview : 
+Preview : https://aimaksim.github.io/project_planto/
